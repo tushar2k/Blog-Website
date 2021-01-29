@@ -1,3 +1,13 @@
+a{
+  color: #FFFFFF;
+}
+
+a:hover{
+  color: #FAFAFA;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 .container-fluid {
     padding-top: 70px;
     padding-bottom: 70px;
@@ -29,7 +39,7 @@
 }
 
 .footer p {
-	margin-top: 25px;
-	font-size: 12px;
+	margin-top: 20px;
+	font-size: 14px;
   color: #fff;
 }
